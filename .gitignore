@@ -1,0 +1,21 @@
+# Eclipse related files
+.settings/
+.classpath
+.project
+target/
+
+# IDE specific files
+.idea/
+*.iml
+
+# Compiled Java classes
+build/
+
+# Temporary files
+*.tmp
+*.log
+
+# Web application specific files
+/src/main/webapp/WEB-INF/lib/
+
+# Ignore any files or directories specific to your environment or workflow
