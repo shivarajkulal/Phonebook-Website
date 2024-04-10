@@ -3,15 +3,13 @@
 
 Welcome to the Phonebook Website project! This web application is designed to efficiently manage contacts. Users can register, securely log in, and perform CRUD (Create, Read, Update, Delete) operations on their contacts. The project is built using Java for the backend, MySQL for the database, and Bootstrap for the frontend.
 
-![Project Logo/Icon (if available)](link_to_project_logo)
-
 ## Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Project Mind Tree](#project-mind-tree)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -53,13 +51,27 @@ Welcome to the Phonebook Website project! This web application is designed to ef
 2. If you're a registered user, log in securely. Otherwise, register for a new account.
 3. Once logged in, you can manage your contacts by adding, editing, or deleting them.
 
-## Screenshots
-
-(Insert screenshots of the application here)
 
 ## Project Mind Tree
 
-(Insert project mind tree here)
+![Mind Tree](src/main/webapp/image/mindTree.png)
+
+## Screenshots
+
+Below are screenshots of some key pages of the Phonebook Website:
+
+| Homepage | Login Page |
+|----------|------------|
+| ![Homepage](src/main/webapp/image/Homepage.png) | ![Login Page](src/main/webapp/image/LoginPage.png) |
+
+| Register Page | Add Contact Page |
+|---------------|------------------|
+| ![Register Page](src/main/webapp/image/RegisterPage.png) | ![Add Contact Page](src/main/webapp/image/AddContactPage.png) |
+
+| Edit Contact Page | Contact Page |
+|--------------------|--------------|
+| ![Edit Contact Page](src/main/webapp/image/EditContactPage.png) | ![Contact Page](src/main/webapp/image/ContactPage.png) |
+
 
 ## Contributing
 
