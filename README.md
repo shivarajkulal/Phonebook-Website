@@ -9,6 +9,7 @@ Welcome to the Phonebook Website project! This web application is designed to ef
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Mind Tree](#project-mind-tree)
+- [Project Structure](#project-structure)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
@@ -55,6 +56,34 @@ Welcome to the Phonebook Website project! This web application is designed to ef
 ## Project Mind Tree
 
 ![Mind Tree](src/main/webapp/image/mindTree.png)
+
+## Project Structure 
+
+```
+.
+├── .settings/
+├── build/
+│   └── classes/
+│       └── com/
+│           ├── conn/
+│           ├── dao/
+│           ├── entity/
+│           └── servlet/
+└── src/
+    └── main/
+        ├── java/
+        │   └── com/
+        │       ├── conn/
+        │       ├── dao/
+        │       ├── entity/
+        │       └── servlet/
+        └── webapp/
+            ├── component/
+            ├── image/
+            ├── META-INF/
+            └── WEB-INF/
+                └── lib/
+```
 
 ## Screenshots
 
